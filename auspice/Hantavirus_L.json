@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://github.com/modoree/htv",
+    "build_url": "https://nextstrain.org/community/KU-MV/Hantavirus/L",
     "colorings": [
       {
         "key": "gt",
@@ -201,7 +201,7 @@
     "maintainers": [
       {
         "name": "Jin-Won Song (Korea University)",
-        "url": "http://github.com/reyus2"
+        "url": "https://nextstrain.org/community/KU-MV/Hantavirus/L"
       }
     ],
     "panels": [
@@ -209,8 +209,8 @@
       "map",
       "entropy"
     ],
-    "title": "Hantaan virus (HTNV) L segment",
-    "updated": "2022-02-20"
+    "title": "Hantavirus L segment",
+    "updated": "2022-04-27"
   },
   "tree": {
     "branch_attrs": {

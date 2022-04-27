@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://github.com/modoree/htv",
+    "build_url": "https://nextstrain.org/community/KU-MV/Hantavirus/S",
     "colorings": [
       {
         "key": "gt",
@@ -289,8 +289,8 @@
       "map",
       "entropy"
     ],
-    "title": "Hantaan virus (HTNV) S segment",
-    "updated": "2022-02-20"
+    "title": "Hantavirus S segment",
+    "updated": "2022-04-27"
   },
   "tree": {
     "branch_attrs": {
